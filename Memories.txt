@@ -10,5 +10,5 @@ this program can make it file .brabrabra just for this program smart Design i ga
 this is my 3Kingdoms i call this com bo "VAK" END of VAK.
 
 4.IObit Unlocker.exe
-5.Burp Suite Professional (linux)
+5.Burp Suite Professional (linux) .deb or something i forget it lol
 6.x64dbg.exe and x32dbg.exe
