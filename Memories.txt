@@ -13,3 +13,4 @@ this is my 3Kingdoms i call this com bo "VAK" END of VAK.
 5.Burp Suite Professional (linux) .deb or something i forget it lol
 6.x64dbg.exe and x32dbg.exe
 7.Source Code CheatEngine (https://github.com/cheat-engine/cheat-engine) make it your own program this is god Tier Program + reverse engineering or anything your want
+8.dnSpy (https://github.com/dnSpy/dnSpy)
