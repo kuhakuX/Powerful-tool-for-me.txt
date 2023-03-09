@@ -1,1 +1,1 @@
-[![](https://cdn.donmai.us/original/7f/9f/__drawn_by_goldendogaki__7f9f95966e3defcfb159ffcad8fe2b6c.gif)](https://danbooru.donmai.us/posts/5807205?q=sword+gif)
+[![](https://cdn.donmai.us/original/a7/5b/__lucina_doma_umaru_and_komaru_fire_emblem_and_2_more_drawn_by_splashbrush__a75b2e6c0b9247d04ff88c0aa02bb17a.gif)](https://danbooru.donmai.us/posts/5807205?q=sword+gif)
